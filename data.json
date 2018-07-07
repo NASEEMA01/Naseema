@@ -3,5 +3,40 @@
   "NAME": "AB.NASEEMA BEGUM",
   "LABEL": "IT STUDENT",
   "EMAIL":"naseemabegum333@gmail.com"
+},
+"career":{
+  "info":"This is my first project and to purse challenging task"
+},
+"education":[
+{
+  "degree":"B-Tech(information technology",
+  "institute":"PVP Siddhartha",
+  "data":["2015-19","94"]
+},
+{
+  "degree":"inter",
+  "institute":"narayana",
+  "data":["2013-15","94"]
+},
+{
+  "degree":"S.S.C",
+  "institute":"SriSrinivasa Public School",
+  "data":["2015","97"]
 }
+
+],
+"skills":[
+  {
+    "title":"language",
+    "content":["c","python","java","c++","PHP","R"]
+  },
+  {
+  "title":"DataBase",
+  "content":["SQL","MongoDB","Mysql"]
+},
+{
+  "title":"frameWorks",
+  "content":["Django","codeIgniter"]
+}
+]
 }
