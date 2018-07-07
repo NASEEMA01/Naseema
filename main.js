@@ -48,6 +48,11 @@ function career(careerInfo){
  }
 
  function skills(skil){
+   var eduHeading=document.createElement("h3");
+   eduHeading.textContent="SKILLS",
+   child2.appendChild(eduHeading);
+   var careerHr=document.createElement("hr");
+   child2.appendChild(careerHr);
 var ul=document.createElement("ul");
 child2.appendChild(ul);
 for(var i=0;i<skil.length;i++){
